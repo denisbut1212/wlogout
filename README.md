@@ -42,11 +42,7 @@ Install dependencies:
 
 Run these commands:
 ```
-git clone https://github.com/ArtsyMacaw/wlogout.git
-cd wlogout
-meson build
-ninja -C build
-sudo ninja -C build install
+sh install.sh
 ```
 ## License
 wlogout is licensed under MIT. [Refer to LICENSE for more information](LICENSE)
