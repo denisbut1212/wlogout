@@ -1,7 +1,7 @@
 project(
   'wlogout',
   'c',
-  version: '1.2.2',
+  version: '1.2.2-fixed',
   license: 'MIT',
   default_options:
   [
